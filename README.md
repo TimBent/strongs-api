@@ -10,7 +10,7 @@
 
 The **Strongs-API** project provides a robust and scalable RESTful API built in **Java** to access and serve data from **Strong's Exhaustive Concordance of the Bible**. The primary goal is to offer developers a simple and performant way to integrate original language lexical data (Hebrew and Greek Strong's numbers) into applications, websites, and scholarly tools.
 
-## ✨ Features (Inferred)
+## ✨ Features
 
 * **RESTful Endpoints:** Standardized routes for looking up Hebrew (H) and Greek (G) Strong's entries.
 * **Fast Lookups:** Designed for high-speed retrieval of definitions, transliterations, and grammatical details.
