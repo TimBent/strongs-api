@@ -74,10 +74,6 @@ Assuming standard naming conventions for a Strong's API, the following endpoints
 | `GET` | `/api/v1/strongs/G{number}` | Retrieve an entry by its Greek Strong's number. | `G3956` (for Pas) |
 | `GET` | `/api/v1/health` | Check the operational status of the service. | - |
 
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to open an issue or submit a pull request for new features, bug fixes, or improvements.
-
 ## 📜 License
 
 Please review the `LICENSE` file (once added) in the repository for details on the licensing terms for this project.
